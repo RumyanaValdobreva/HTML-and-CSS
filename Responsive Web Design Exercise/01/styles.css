@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+main > nav {
+    background-color: aquamarine;
+    display: inline-block;
+}
